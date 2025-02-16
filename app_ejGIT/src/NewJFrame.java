@@ -14,7 +14,7 @@ public class NewJFrame extends javax.swing.JFrame {
      */
     public NewJFrame() {
         initComponents();
-        System.out.println("Hola, Mundo! rama_ejemplo ");
+        System.out.println("Hola, Mundo! conflictos ");
     }
 
     /**
